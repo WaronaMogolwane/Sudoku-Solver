@@ -1,5 +1,3 @@
-package com.majorxp;
-
 public class SudokuSolver {
 
     public static final int GRID_SIZE = 9;
