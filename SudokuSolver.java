@@ -2,7 +2,7 @@ public class SudokuSolver {
 
     public static final int GRID_SIZE = 9;
 
-    public static int [][] grid = {
+    public static final int [][] grid = {
 
             {3, 0, 6, 5, 0, 8, 4, 0, 0},
             {5, 2, 0, 0, 0, 0, 0, 0, 0},
